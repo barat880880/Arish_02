@@ -9,5 +9,8 @@
         <module name="Arish_02" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CBDD_ONLINE_ONISTE_22" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
